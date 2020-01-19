@@ -1,4 +1,4 @@
-const markdownConverter = require('markdown-converter');
+const markdownConverter = require('marked');
 
 const DEFAULT_WRAPPER = {
     block: 'content',
